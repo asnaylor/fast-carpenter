@@ -1,4 +1,4 @@
-import pandas as pd
+import cudf as pd
 import numpy as np
 from .tree_wrapper import WrappedTree
 

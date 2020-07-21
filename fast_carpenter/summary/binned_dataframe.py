@@ -4,7 +4,7 @@ Summarize the data by producing binned and possibly weighted counts of the data.
 import os
 import re
 import numpy as np
-import pandas as pd
+import cudf as pd
 from pandas.api.types import is_object_dtype
 from . import binning_config as cfg
 

@@ -1,4 +1,4 @@
-import pandas as pd
+import cudf as pd
 import copy
 import numpy as np
 import pytest

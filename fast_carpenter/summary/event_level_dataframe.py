@@ -1,5 +1,5 @@
 import os
-import pandas as pd
+import cudf as pd
 
 
 class Collector():

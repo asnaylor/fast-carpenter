@@ -11,7 +11,7 @@ final mask.
 """
 from __future__ import absolute_import
 import six
-import pandas as pd
+import cudf as pd
 import os
 from copy import deepcopy
 from .filters import build_selection

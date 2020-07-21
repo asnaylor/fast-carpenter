@@ -1,6 +1,6 @@
 import pytest
 import numpy as np
-import pandas as pd
+import cudf as pd
 import fast_carpenter.summary.binning_config as mgr
 from . import dummy_binning_descriptions as binning
 

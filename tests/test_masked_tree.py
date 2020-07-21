@@ -1,7 +1,7 @@
 from __future__ import division
 import pytest
 import numpy as np
-import pandas as pd
+import cudf as pd
 import fast_carpenter.masked_tree as m_tree
 
 

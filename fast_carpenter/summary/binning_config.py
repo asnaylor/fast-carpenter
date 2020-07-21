@@ -1,6 +1,6 @@
 import six
 import numpy as np
-import pandas as pd
+import cudf as pd
 
 
 class BadBinnedDataframeConfig(Exception):
